@@ -1,1 +1,1 @@
-# B3W4L4---Content-uit-je-database-gebruiken
+# B3W4L2---Pagina-opbouw-met-Includes-en-requires

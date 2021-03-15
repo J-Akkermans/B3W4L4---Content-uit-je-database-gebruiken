@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(../images/header.jpg);
+  height: 200px;
+}
+
+nav, footer {
+  background-color: #bc9add;
+}
+
+nav ul, footer ul {
+  text-align: center;
+}
+
+nav ul li, footer ul li {
+  display: inline-block;
+  font-size: 30px;
+}
+
+nav ul li a, footer ul li a {
+  text-decoration: none;
+  color: white;
+  padding: 0 25px;
+}
+
+footer {
+  padding: 0 25px;
+  text-align: center;
+}
+
+div {
+  width: 300px;
+  margin: 0 auto;
+  color: black;
+}
+
+div p {
+  font-size: 24px;
+}
+/*# sourceMappingURL=style.css.map */
