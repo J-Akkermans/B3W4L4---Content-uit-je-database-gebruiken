@@ -9,9 +9,9 @@ $header ='
 <header></header>
 <nav>
 <ul>
-    <li><a href="index.php?content=pages/onderwerp1.php">Page-1</a></li>
-    <li><a href="index.php?content=pages/onderwerp2.php">Page-2</a></li>
-    <li><a href="index.php?content=pages/onderwerp3.php"">Page-3</a></li>
+    <li><a href="index.php?id=1">Falcon 9</a></li>
+    <li><a href="index.php?id=2">Falcon Heavy</a></li>
+    <li><a href="index.php?id=3">Starship</a></li>
 </ul>
 </nav>'
 ?>
